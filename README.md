@@ -19,7 +19,6 @@ Anything else that you want to add for users? You can write it here in markdown 
 ### You Can use it fallow theese steps
 - Step 1: Make a clone of it
 - Step 2: Install Tailwind css into your folder 
-- Step 3 : Use it where you want
 
 
 
